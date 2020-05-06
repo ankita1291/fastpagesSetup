@@ -7,6 +7,7 @@
 https://ankita1291.github.io/fastpagesSetup/
 
 # My Blog
+initial commit
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
